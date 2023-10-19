@@ -2,3 +2,15 @@
     padding: 0;
     margin: 0;
 }
+div {
+    border: 1px;
+    margin: 5px 5px;
+}
+article {
+    text-align: right;
+}
+img {
+    width: 30%;
+    height: 30%;
+    float: left;
+}
